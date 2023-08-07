@@ -1,0 +1,12 @@
+# mans komentārs
+print('hello grupa 1 DevOps')
+
+cipars_1 = 23
+cipars_2 = 100
+
+rezultats = cipars_1 + cipars_2
+
+print(type(rezultats))
+
+#izmaiņas
+
