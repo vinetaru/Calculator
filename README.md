@@ -1,4 +1,4 @@
-Uzdevumi MarkDown Level 1.
+ Level 1.
 
 [comment]: Uzdevums_adfsfas_adfasfsa 
 
