@@ -9,4 +9,5 @@ rezultats = cipars_1 + cipars_2
 print(type(rezultats))
 
 #izmaiņas
+#izmaiņas2
 
